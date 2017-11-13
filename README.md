@@ -5,7 +5,7 @@
 ## Overview
 resolution_mng is force set windows screen resolution application.
 
-monitor a window  resolution on 5sec interval.
+Check window  resolution on 5sec interval.
 when resolution was down, set resolution force.
 
 ## Quick Start
